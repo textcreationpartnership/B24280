@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The virtues and happy effects of Bateman's famous spirits of scurvy-grass, both plain and golden, and particular cures thereby performed.</title>
+            <author>Hooker, John, fl. 1695.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24280</idno><idno type="EEBO-CITATION">99888595</idno>
+  <idno type="VID">195821</idno>
+  <idno type="EEBO-PROQUEST">2264186972</idno>
+  
+            <idno type="STC">Wing H2629C</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[16]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[98]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[101]</idno>
+            <idno type="STC">ESTC R231219</idno>
+            <idno type="STC">ESTC R231642</idno>
+            <idno type="PROQUEST">ocm99888595</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888595e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195821)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[16], E8:1[99], E8:1[102])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The virtues and happy effects of Bateman's famous spirits of scurvy-grass, both plain and golden, and particular cures thereby performed.</title>
+                  <author>Hooker, John, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"[N]ow truly and faithfully prepared by John Hooker ..."--P. [2].</note>
+                  <note>In this edition the caption title appears as three lines.</note>
+                  <note>Imperfect: item at reel E8:1[16] is torn at head; E8:1[99] is creased and stained; E8:1[102] is foxed.</note>
+                  <note>Imprint and author from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195821:1"/>
+            <pb facs="tcp:195821:1"/>
+            <head>The Virtues and Happy Effects of <hi>BATEMANs</hi> Famo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>SPIRITS</hi> of <hi>SCURVY-GRASS,</hi> both <hi>Plain</hi> and <hi>Golden,</hi> and particular <hi>CURES</hi> thereby performed.</head>
+            <p>THere is no doubt but Providence design'd that Excellent Medicinal Herb by us (from its Virtues) call'd <hi>SCURVY-GRASS,</hi> for a <hi>Specifick</hi> or peculiar and adequate Remedy against a cruel, and almost universal Disease, the <hi>Scurvy,</hi> and several other Distempers in<g ref="char:EOLhyphen"/>festing the Inhabitants of these <hi>Northern</hi> Parts. But both Reason and Experience have caught, That the <hi>common way</hi> of infusing the <hi>crude Herb,</hi> and letting it lye to rot in Liqours, or taking the gross <hi>pounded Juice</hi> with all its <hi>Impurities,</hi> as in the vulgar <hi>Scurvy-grass-Ale</hi> and <hi>Beer,</hi> is (by reason of the <hi>Earthy</hi> and <hi>Phlegmatick</hi> parts thereby received into the Body) both <hi>navseous</hi> and <hi>prejudicial,</hi> Instead of being helpful to Nature. To prevent which inconveniencies these <hi>Noble Spirits</hi> were invent<g ref="char:EOLhyphen"/>ed, where all the gross <hi>dreggy</hi> parts being seperated and cast off, nothing remains but the pure <hi>essential Virtues</hi> of this gallant <hi>Vegetable;</hi> thereby becoming of far greater <hi>Efficacy</hi> to assist Nature, and meet with, subdue and expel the lurking <hi>Morbifick-matter,</hi> which occasions those <hi>Diseases.</hi> This is now so notorious, that few People but such as are stupidly ignorant, or unreasonably wilful, do any longer make use of the common <hi>Scurvy-Ale,</hi> but apply themselves to these more generous <hi>Spirits,</hi> which have given such eminent and singular proofs of their success.</p>
+            <p>
+               <hi>The Plain Spirit.</hi>
+            </p>
+            <p>Is Excellent to be taken frequently by way of <hi>Prevention,</hi> or where the <hi>Scorbutick</hi> Humour is not yet grown too strong and inveterate. It gives any Liquor a pleasing Taste, cheers the Spirits, warms and comforts the <hi>Stomach,</hi> and thereby creates a good <hi>Appetite,</hi> and helps <hi>Digestion:</hi> 'Tis a rare Re<g ref="char:EOLhyphen"/>medy to sweeten and cure an offensive <hi>Breath:</hi> It prevents <hi>Worms</hi> in Children; it cuts, attenuates, and dissolves <hi>Phlegm</hi> and <hi>Crudities,</hi> contracted by large Suppers, or over-drinking, and helps those that are troubled with <hi>Wind, Vapours,</hi> and <hi>sower Belchings:</hi> It cuts off and disperses the Causes of <hi>Scurvy, Dropsies,</hi> and many other Diseases in the bud, and is a grand preserver of <hi>Health,</hi> if often used. Many People never drink their Mornings draught without it, and find great benefit: You may take thirty or forty drops in half a pint of <hi>Beer, Ale, Cider,</hi> or other Liquor, at any time, an hour or more before or after <hi>Meals;</hi> but the Morning is the most proper Season.</p>
+            <div type="part">
+               <head>The Golden Spirit.</head>
+               <p>Is used when the <hi>Scurvey</hi> is radicated and become dangerous, and where <hi>Purging</hi> is necessary; to which purpose it is impregnated with <hi>choice Ingredients,</hi> most <hi>friendly to Nature.</hi> 'Tis also an excel<g ref="char:EOLhyphen"/>lent and Sovereign Medicine in the <hi>Dropsy, Gout, Stone,</hi> and <hi>Gravel, Melancholly, Green-sickness,</hi> and several other Diseases, as in the particular <hi>Directions</hi> for its Use, is truly and more at large set forth.</p>
+            </div>
+            <div type="part">
+               <head>Several Remarkable Cures which have been wrought by these <hi>Spirits.</hi>
+               </head>
+               <p>
+                  <hi>Jacob Wise</hi> of <hi>Rumsey</hi> in <hi>Hampshire,</hi> had a dreadful Breaking out in Pimples over all his Bo<g ref="char:EOLhyphen"/>dy, which being scratched, a Watery honour would issue forth; and a wet Cloath clapt to his Stomach in Winter would reak as if it had been dipt in the a boyling Kertls; yet before he had taken one Glass of this Spirit, his Flesh became like the Flesh of a young Child.</p>
+               <div type="section">
+                  <head>Attested by himself.</head>
+                  <p>
+                     <hi>Edward Levesedge</hi> of <hi>Kilmington</hi> in <hi>Somersetshire,</hi> who being afflicted with a long continued <hi>Scurvy,</hi> and a dropsical Humour, whereby Nature was so weakned, and his Legs and Arms swell'd to such a prodigious Bigness, that he was not able to stand or go; yet by taking but four Bottles of this <hi>Spirit,</hi> he was perfectly cured.</p>
+               </div>
+               <div type="section">
+                  <head>Attested by himself.</head>
+                  <p>☞<hi>John Hellard</hi> in the Town of <hi>Tounton,</hi> St. <hi>Mary Magdalen</hi> in the County of <hi>Somerset,</hi> Serge-wea<g ref="char:EOLhyphen"/>ver, being very Sick and Weak, and troubled with a mighty Swelling in his Legs and Thighs, so that he was unable either to Walk or Stand without extremity of Pain. About the latter end of <hi>January</hi> last, took one Bottle of the <hi>Purging Spirit,</hi> and in six days time his Swelling left him, his Strength, and Stomack, and Vigour, were wonderfully restored; and now enjoys that measure and degree of Health, as before; for which he desires to give God the Glory, and put
+<pb facs="tcp:195821:2"/>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to this incomparable Remedy, so that others may be incouraged hereby (when need requires) to use the same. Attested by Mr. <hi>Simon Babb</hi> Bookseller in <hi>Taunton, March</hi> 1 1693/4.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>Many other Remarkable Cures I could recite, would this Paper contain them; and might show, that they are in great Esteem with very able Physicians, as the Learned Dr. <hi>Dyke</hi> near <hi>Taunton,</hi> who desired his Name may be made use of as highly approving of them, and like<g ref="char:EOLhyphen"/>wise several other great Physicians.</p>
+               <p>These Famous <hi>Spirits</hi> were first publisht by Mr. <hi>Robert Bateman</hi> 19 or 20 years ago; tho since counterfeited by divers Upstarts, who not one of them knew the Right Prepa<g ref="char:EOLhyphen"/>ration, as was evident to any that tried and compared their <hi>Trash</hi> with his true and genuine <hi>Spi<g ref="char:EOLhyphen"/>rits.</hi> But ever since, and now truly and faithfully prepared by <hi>John Hooker,</hi> at his House in St. <hi>Paul</hi>'s <hi>Chain,</hi> as formerly.</p>
+               <p>☞<hi>The</hi> Balsamick, <hi>Or Health-Procuring and Preserving</hi> Pill, <hi>prevents and gives ease to all Aches, Twinging Pains, and other Distempers of the Head: Removing the Causes of Lethargies, Apoplexies, Epilepsies, Palsies, Convulsions and Distillations of Sharp Humours upon the Lungs; Eradicates the Causes of Gout and Scurvey, and is an Excellent Companion for Sea-faring People. Which Pill is also only Prepared by</hi> John Hooker <hi>aforesaid; where it may be had, either Six Pills for Eightpence, or Nine for One Shilling, Seal'd up in Tin Boxes: And at the Places here under-mention'd.</hi>
+               </p>
+               <list>
+                  <item>Mr. <hi>BRABAZON AYLMER</hi> Bookseller at the <hi>Three Pigeons</hi> against the <hi>Royal Exchange.</hi>
+                  </item>
+                  <item>Mr. <hi>Tho. Cockerill</hi> Bookseller in <hi>Pater-Noster-Row</hi> the Corner of <hi>Warwick Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>Jonathan Millner</hi> at the <hi>Red M and Dagger</hi> in <hi>Popes-head-Alley</hi> against the <hi>Royal-Exchange</hi>
+                  </item>
+                  <item>Mr. <hi>Lacy</hi> Stationer at the <hi>Golden Lyon</hi> near the <hi>King's Head</hi> in <hi>Southwark.</hi>
+                  </item>
+                  <item>Mr. <hi>H. Newman</hi> Bookseller at the <hi>Grashopper</hi> in the <hi>Poultrey.</hi>
+                  </item>
+                  <item>Mr. <hi>Nott</hi> Bookseller in <hi>Pall-mall.</hi>
+                  </item>
+                  <item>Mr. <hi>Mount</hi> Bookseller on <hi>Great Tower-hill</hi> near the <hi>Postern.</hi>
+                  </item>
+                  <item>Mr. <hi>Robinson</hi> Bookseller at the <hi>Golden-Lyon</hi> in St. <hi>Paul</hi>'s Church-Yard.</item>
+                  <item>Mr. <hi>Freeman</hi> Bookseller at the <hi>Bible</hi> near <hi>Temple-Bar.</hi>
+                  </item>
+                  <item>Mr. <hi>Place</hi> Bookseller at <hi>Furnival</hi>'s <hi>Inn-gate</hi> in <hi>Holbourn.</hi>
+                  </item>
+                  <item>Mr. <hi>Collier</hi> Bookseller on <hi>London-bridge</hi> under the Gate.</item>
+                  <item>Mrs. <hi>Hope</hi> Bookseller at the <hi>North-Entrance</hi> into the <hi>Royal-Exchange.</hi>
+                  </item>
+                  <item>Mr. <hi>Smith</hi> Bookseller at the <hi>White-Lyon</hi> in <hi>Russel<g ref="char:EOLhyphen"/>street, Covent garden.</hi>
+                  </item>
+                  <item>Mr. <hi>Speed</hi> Bookseller at the <hi>Three Crowns</hi> in <hi>Cornhill.</hi>
+                  </item>
+                  <item>Mr. <hi>Samuel Seaton</hi> Pewterer at the Corner of <hi>Whitecross street.</hi>
+                  </item>
+                  <item>Mr. <hi>Atkinson</hi> Teacher of the Mathematicks at <hi>Cherry-garden stairs</hi> in <hi>Redriff.</hi>
+                  </item>
+                  <item>Mr. <hi>Th. Oliver</hi> at his Coffee-house at <hi>Westminster-hall gate.</hi>
+                  </item>
+                  <item>Mr. <hi>Adams</hi> Cheesemonger at the <hi>Frying pan</hi> in <hi>Clare-market.</hi>
+                  </item>
+                  <item>Mr. <hi>Tho Rarkhurst</hi> at the <hi>Bible and Three Growns</hi> in <hi>Cheapside.</hi>
+                  </item>
+                  <item>Mr. <hi>Kickards</hi> Haberdasher of Hats at the <hi>Hat and Gun</hi> with out <hi>Bishopsgate.</hi>
+                  </item>
+                  <item>Mr. <hi>Dauntry</hi>'s a Caneshop near the <hi>Cock</hi> Although at <hi>Temple Bar.</hi>
+                  </item>
+                  <item>Mr. <hi>Thornton</hi> at the Sign of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> in the <hi>Minories.</hi>
+                  </item>
+                  <item>Mr. <hi>Sam. Clark</hi> Bookseller in <hi>George-yard.</hi>
+                  </item>
+                  <item>Mr. <hi>Rolf</hi> Milliner next the <hi>Magpy</hi> Tavern with<g ref="char:EOLhyphen"/>out <hi>Bishopsgate.</hi>
+                  </item>
+                  <item>Mr. <hi>Green</hi> an Ironmonger against St. <hi>Sepulchres</hi> Church.</item>
+                  <item>Mr. <hi>Christopher Hughbank</hi> Barber in <hi>Greek-street,</hi> nigh <hi>Soho,</hi> at the Sign of the <hi>Clock.</hi>
+                  </item>
+                  <item>Mr. <hi>Chorly</hi> a Potter at the Corner of <hi>Shoe-Lane</hi> in <hi>Fleetstreet.</hi>
+                  </item>
+                  <item>Mr. <hi>Cosens</hi> Grocer in <hi>Newgatemarket.</hi>
+                  </item>
+                  <item>Mr. <hi>Drayden</hi> Cheesemonger at the <hi>Blue-Ball</hi> in <hi>Limehouse.</hi>
+                  </item>
+                  <item>Mr. <hi>Conningsby</hi> Cheesemonger in <hi>Chiswell-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Roberts</hi> Shoe-maker in <hi>Montague-street</hi> in <hi>Spittlefields.</hi>
+                  </item>
+                  <item>Mr. <hi>Yardley</hi> at the <hi>Black-boy</hi> Coffee-house in <hi>Ave-mary lane.</hi>
+                  </item>
+                  <item>Mr. <hi>T. Gearing</hi> at the <hi>Golden Sugar-leaf</hi> in <hi>Piccadilly.</hi>
+                  </item>
+                  <item>Mr. <hi>Brasil</hi> Hatter against St. <hi>Sepulchres</hi> Church.</item>
+                  <item>Mrs. <hi>Perry</hi> Miliner in <hi>Leaden-hall-street</hi> near <hi>Lime-street-end.</hi>
+                  </item>
+                  <item>Mr. <hi>Wiliam Giles</hi> a Toyshop nigh the <hi>Inner-Temple-gate.</hi>
+                  </item>
+                  <item>Mrs. <hi>West</hi> a Mealshop in <hi>Houndsditch.</hi>
+                  </item>
+                  <item>Mr. <hi>Webb</hi> at the <hi>Crown and Lamp</hi> in <hi>Bishopsgate-street.</hi>
+                  </item>
+                  <item>Mr. <hi>Dix</hi> Shoe-maker next door to the <hi>Golden-Fleece</hi> near <hi>Charing cross.</hi>
+                  </item>
+                  <item>Mr. <hi>Mather</hi> a Caneshop near the <hi>Temple gate.</hi>
+                  </item>
+                  <item>Mr. <hi>Rowe</hi> at the <hi>Dog and Bull</hi> in St. <hi>Giles</hi>'s.</item>
+                  <item>Mr. <hi>Shakely</hi> at the <hi>Hoop</hi> in <hi>Grays Inn</hi> Passage.</item>
+                  <item>Mr. <hi>Smith</hi> Haberdasher at the <hi>Sun</hi> in the <hi>Borough.</hi>
+                  </item>
+                  <item>Mrs. <hi>Yard</hi> Milliner in <hi>Broadstreet</hi> near <hi>Ratcliff.</hi>
+                  </item>
+                  <item>Mr. <hi>Tho. Neal</hi> a Chandler's Shop in <hi>Sherwoodd-street</hi> near <hi>Golden square.</hi>
+                  </item>
+                  <item>Mrs. <hi>J. Foster</hi> Shopkeeper near the <hi>Hermitage</hi> in <hi>Wapping</hi>
+                  </item>
+                  <item>And at <hi>John Hooker</hi>'s Dwelling-house in <hi>Paul</hi>'s <hi>Chain,</hi> near <hi>Doctors Commons, London.</hi>
+                  </item>
+               </list>
+               <p>Beware of <hi>Counterfeits,</hi> for they Swarm.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Published with Allowance.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
